@@ -1,4 +1,4 @@
-const palindromes = function (word) {
+const palindromes = function (string) {
   const alphanumerical = "abcdefghijklmnopqrstuvwxyz0123456789";
 
   const cleanedString = string
